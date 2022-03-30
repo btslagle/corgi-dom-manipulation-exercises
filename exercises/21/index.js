@@ -1,2 +1,2 @@
 const li = document.querySelector("li")
-console.log(li)
+console.dir(li)
